@@ -1,0 +1,29 @@
+body{
+    background: skyblue;
+    margin: 0 auto;
+    max-width: 800px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.course{
+    background: #5C0632;
+    padding: 8px;
+    margin: 10px;
+    width: 30%;
+
+}
+.course h4{
+    color: #747F8A;
+    text-transform: uppercase;
+
+}
+.courses{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.course-info{
+    display: flex;
+    justify-content: space-between;
+
+}
