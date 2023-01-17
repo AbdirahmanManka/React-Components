@@ -25,6 +25,8 @@ function App() {
   )
 }
 
+export default App;
+
 
 
 ReactDOM.render(<Courses />, document.getElementById("root"))
